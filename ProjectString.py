@@ -37,3 +37,13 @@ if __name__ == "__main__":
     # print(first_word(name))
     #print(cap_vowels(name))
     print(string_padding(name))
+
+
+
+
+
+
+
+
+print('hi')
+# hello
